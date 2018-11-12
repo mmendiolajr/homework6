@@ -61,7 +61,7 @@ cracker :-
 	display(Moves).
  
  
-% display soluce
+% display
 
 display(Sol) :-
 	display(Sol, [1]).
